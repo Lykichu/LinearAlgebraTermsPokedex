@@ -4,84 +4,84 @@
   "previous": null,
   "results": [
     {
-      "name": "Linear equation",
-      "url": "an equation of the form:\n a\u2081x\u2081 + a\u2082x\u2082 + ... + a\u1D62x\u1D62 = d"
+      "term": "Linear equation",
+      "definition": "an equation of the form:\n a\u2081x\u2081 + a\u2082x\u2082 + ... + a\u1D62x\u1D62 = d"
     },
     {
-      "name": "System of linear equations",
-      "url": "hello"
+      "term": "System of linear equations",
+      "definition": "hello"
     },
     {
-      "name": "Solution set",
-      "url": "https://pokeapi.co/api/v2/pokemon/3/"
+      "term": "Solution set",
+      "definition": "https://pokeapi.co/api/v2/pokemon/3/"
     },
     {
-      "name": "charmander",
-      "url": "https://pokeapi.co/api/v2/pokemon/4/"
+      "term": "charmander",
+      "definition": "https://pokeapi.co/api/v2/pokemon/4/"
     },
     {
-      "name": "charmeleon",
-      "url": "https://pokeapi.co/api/v2/pokemon/5/"
+      "term": "charmeleon",
+      "definition": "https://pokeapi.co/api/v2/pokemon/5/"
     },
     {
-      "name": "charizard",
-      "url": "https://pokeapi.co/api/v2/pokemon/6/"
+      "term": "charizard",
+      "definition": "https://pokeapi.co/api/v2/pokemon/6/"
     },
     {
-      "name": "squirtle",
-      "url": "https://pokeapi.co/api/v2/pokemon/7/"
+      "term": "squirtle",
+      "definition": "https://pokeapi.co/api/v2/pokemon/7/"
     },
     {
-      "name": "wartortle",
-      "url": "https://pokeapi.co/api/v2/pokemon/8/"
+      "term": "wartortle",
+      "definition": "https://pokeapi.co/api/v2/pokemon/8/"
     },
     {
-      "name": "blastoise",
-      "url": "https://pokeapi.co/api/v2/pokemon/9/"
+      "term": "blastoise",
+      "definition": "https://pokeapi.co/api/v2/pokemon/9/"
     },
     {
-      "name": "caterpie",
-      "url": "https://pokeapi.co/api/v2/pokemon/10/"
+      "term": "caterpie",
+      "definition": "https://pokeapi.co/api/v2/pokemon/10/"
     },
     {
-      "name": "metapod",
-      "url": "https://pokeapi.co/api/v2/pokemon/11/"
+      "term": "metapod",
+      "definition": "https://pokeapi.co/api/v2/pokemon/11/"
     },
     {
-      "name": "butterfree",
-      "url": "https://pokeapi.co/api/v2/pokemon/12/"
+      "term": "butterfree",
+      "definition": "https://pokeapi.co/api/v2/pokemon/12/"
     },
     {
-      "name": "weedle",
-      "url": "https://pokeapi.co/api/v2/pokemon/13/"
+      "term": "weedle",
+      "definition": "https://pokeapi.co/api/v2/pokemon/13/"
     },
     {
-      "name": "kakuna",
-      "url": "https://pokeapi.co/api/v2/pokemon/14/"
+      "term": "kakuna",
+      "definition": "https://pokeapi.co/api/v2/pokemon/14/"
     },
     {
-      "name": "beedrill",
-      "url": "https://pokeapi.co/api/v2/pokemon/15/"
+      "term": "beedrill",
+      "definition": "https://pokeapi.co/api/v2/pokemon/15/"
     },
     {
-      "name": "pidgey",
-      "url": "https://pokeapi.co/api/v2/pokemon/16/"
+      "term": "pidgey",
+      "definition": "https://pokeapi.co/api/v2/pokemon/16/"
     },
     {
-      "name": "pidgeotto",
-      "url": "https://pokeapi.co/api/v2/pokemon/17/"
+      "term": "pidgeotto",
+      "definition": "https://pokeapi.co/api/v2/pokemon/17/"
     },
     {
-      "name": "pidgeot",
-      "url": "https://pokeapi.co/api/v2/pokemon/18/"
+      "term": "pidgeot",
+      "definition": "https://pokeapi.co/api/v2/pokemon/18/"
     },
     {
-      "name": "rattata",
-      "url": "https://pokeapi.co/api/v2/pokemon/19/"
+      "term": "rattata",
+      "definition": "https://pokeapi.co/api/v2/pokemon/19/"
     },
     {
-      "name": "raticate",
-      "url": "https://pokeapi.co/api/v2/pokemon/20/"
+      "term": "raticate",
+      "definition": "https://pokeapi.co/api/v2/pokemon/20/"
     }
   ]
 }
