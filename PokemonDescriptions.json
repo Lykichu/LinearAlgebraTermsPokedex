@@ -13,7 +13,7 @@
     },
     {
       "term": "matrix",
-      "definition": "A rectangular array of \nvalues representing a system of equation: a\u2081\u2081 + a\u2081\u2082 + ... + a\u1D62x\u1D62 \n a\u2082\u2081 + a\u2082\u2082 + ... + a\u1D62\u1D62 \n . \n . \n . \n a\u1d63\u2081 + a\u1d63\u2082 + ... + a\u1D63x\u1D62"
+      "definition": "A rectangular array of \nvalues representing a system of equation:\n a\u2081\u2081 + a\u2081\u2082 + ... + a\u1D62x\u1D62 \n a\u2082\u2081 + a\u2082\u2082 + ... + a\u1D62\u1D62 \n .                            \n .                            \n .                            \n a\u1d63\u2081 + a\u1d63\u2082 + ... + a\u1D63x\u1D62"
     },
     {
       "term": "charmander",
@@ -49,39 +49,39 @@
     },
     {
       "term": "butterfree",
-      "definition": "https://pokeapi.co/api/v2/pokemon/12/"
+      "definition": "Description not yet added"
     },
     {
       "term": "weedle",
-      "definition": "https://pokeapi.co/api/v2/pokemon/13/"
+      "definition": "Description not yet added"
     },
     {
       "term": "kakuna",
-      "definition": "https://pokeapi.co/api/v2/pokemon/14/"
+      "definition": "Description not yet added"
     },
     {
       "term": "beedrill",
-      "definition": "https://pokeapi.co/api/v2/pokemon/15/"
+      "definition": "Description not yet added"
     },
     {
       "term": "pidgey",
-      "definition": "https://pokeapi.co/api/v2/pokemon/16/"
+      "definition": "Description not yet added"
     },
     {
       "term": "pidgeotto",
-      "definition": "https://pokeapi.co/api/v2/pokemon/17/"
+      "definition": "Description not yet added"
     },
     {
       "term": "pidgeot",
-      "definition": "https://pokeapi.co/api/v2/pokemon/18/"
+      "definition": "Description not yet added"
     },
     {
       "term": "rattata",
-      "definition": "https://pokeapi.co/api/v2/pokemon/19/"
+      "definition": "Description not yet added"
     },
     {
       "term": "raticate",
-      "definition": "https://pokeapi.co/api/v2/pokemon/20/"
+      "definition": "Description not yet added"
     }
   ]
 }
