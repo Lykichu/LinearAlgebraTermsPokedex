@@ -4,16 +4,16 @@
   "previous": null,
   "results": [
     {
-      "term": "Linear equation",
+      "term": "Linear Equation",
       "definition": "an equation of the form:\n a\u2081x\u2081 + a\u2082x\u2082 + ... + a\u1D62x\u1D62 = d"
     },
     {
-      "term": "System of linear equations",
-      "definition": "hello"
+      "term": "Solution Set",
+      "definition": "The collection of all \nsolutions to a system of equations"
     },
     {
-      "term": "Solution set",
-      "definition": "https://pokeapi.co/api/v2/pokemon/3/"
+      "term": "matrix",
+      "definition": "A rectangular array of \nvalue representing a system of equation: "
     },
     {
       "term": "charmander",
