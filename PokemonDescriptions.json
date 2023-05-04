@@ -13,7 +13,7 @@
     },
     {
       "term": "matrix",
-      "definition": "A rectangular array of \nvalue representing a system of equation: "
+      "definition": "A rectangular array of \nvalues representing a system of equation: a\u2081\u2081 + a\u2081\u2082 + ... + a\u1D62x\u1D62 \n a\u2082\u2081 + a\u2082\u2082 + ... + a\u1D62\u1D62 \n . \n . \n . \n a\u1d63\u2081 + a\u1d63\u2082 + ... + a\u1D63x\u1D62"
     },
     {
       "term": "charmander",
