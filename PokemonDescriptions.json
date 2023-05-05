@@ -26,7 +26,7 @@
     {
       "number": "5",
       "term": "Singular Value Decomposition",
-      "definition": "A matrix A can be written as a product of matrices such that:\n A = UEV \u1D40 \n where U is an orthogonal matrix made of the normalized eigenvectors from A \u1D40 A"
+      "definition": "A matrix A can be written as a product of matrices such that:\n A = UEV\u1D40 \n where U is an orthogonal matrix made of the normalized eigenvectors from A\u1D40A"
     },
     {
       "number": "6",
