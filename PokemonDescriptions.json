@@ -13,7 +13,7 @@
     },
     {
       "term": "Matrix",
-      "definition": "A rectangular array of \nvalues representing a system of equation:\n a\u2081\u2081 + a\u2081\u2082 + ... + a\u2081\u1D62 \n a\u2082\u2081 + a\u2082\u2082 + ... + a\u2082\u1D62 \n .                           . \n .                           . \n .                           . \n a\u1d63\u2081 + a\u1d63\u2082 + ... + a\u1D63\u1D62"
+      "definition": "A rectangular array of \nvalues representing a system of equation:\n a\u2081\u2081 + a\u2081\u2082 + ... + a\u2081\u1D62 \n a\u2082\u2081 + a\u2082\u2082 + ... + a\u2082\u1D62 \n . \u0020 \u0020 \u0020 \u0020 \u0020 \u0020 \u0020 . \n . \u0020 \u0020 \u0020 \u0020 \u0020 \u0020 \u0020 . \n . \u0020 \u0020 \u0020 \u0020 \u0020 \u0020 \u0020 . \n a\u1d63\u2081 + a\u1d63\u2082 + ... + a\u1D63\u1D62"
     },
     {
       "term": "Gram-Schmidt",
@@ -21,15 +21,15 @@
     },
     {
       "term": "Singular Value Decomposition",
-      "definition": "Description not yet added \n \u0F3C \u0020 \u3064 \u0020 \u25D5 \u0020 \u2323 \u0020 \u25D5 \u0020 \u0F3D \u3064"
+      "definition": "A matrix A can be written as a product of matrices such that:\n A = UEV \u1D40"
     },
     {
       "term": "Primary Component Analysis",
-      "definition": "Description not yet added \n\n (づ ◕‿◕ )づ"
+      "definition": "The process of reducing the dimension of data by projecting onto the axis of most variance found by the eigenvectors of the covariance matrix"
     },
     {
       "term": "squirtle",
-      "definition": "Description not yet added \n\n ⊂(￣▽￣)⊃ "
+      "definition": "Description not yet added \n\n ⊂(￣▽￣)⊃"
     },
     {
       "term": "wartortle",
@@ -45,43 +45,43 @@
     },
     {
       "term": "metapod",
-      "definition": "Description not yet added"
+      "definition": "Description not yet added \n\n (づ ◕‿◕ )づ"
     },
     {
       "term": "butterfree",
-      "definition": "Description not yet added"
+      "definition": "Description not yet added \n\n ⊂(￣▽￣)⊃"
     },
     {
       "term": "weedle",
-      "definition": "Description not yet added"
+      "definition": "Description not yet added \n\n (ﾉ>ω<)ﾉ :｡･:*:･★:･☆"
     },
     {
       "term": "kakuna",
-      "definition": "Description not yet added"
+      "definition": "Description not yet added \n\n (∩` ﾛ ´)⊃━炎炎炎炎炎"
     },
     {
       "term": "beedrill",
-      "definition": "Description not yet added"
+      "definition": "Description not yet added \n\n ┐(￣ヘ￣)┌"
     },
     {
       "term": "pidgey",
-      "definition": "Description not yet added"
+      "definition": "Description not yet added \n\n (づ ◕‿◕ )づ"
     },
     {
       "term": "pidgeotto",
-      "definition": "Description not yet added"
+      "definition": "Description not yet added \n\n ⊂(￣▽￣)⊃"
     },
     {
       "term": "pidgeot",
-      "definition": "Description not yet added"
+      "definition": "Description not yet added \n\n (ﾉ>ω<)ﾉ :｡･:*:･★:･☆
     },
     {
       "term": "rattata",
-      "definition": "Description not yet added"
+      "definition": "Description not yet added \n\n (∩` ﾛ ´)⊃━炎炎炎炎炎
     },
     {
       "term": "raticate",
-      "definition": "Description not yet added"
+      "definition": "Description not yet added \n\n ┐(￣ヘ￣)┌"
     }
   ]
 }
