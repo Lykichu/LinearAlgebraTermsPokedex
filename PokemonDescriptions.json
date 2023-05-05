@@ -21,7 +21,7 @@
     },
     {
       "term": "Singular Value Decomposition",
-      "definition": "A matrix A can be written as a product of matrices such that:\n A = UEV\1D40"
+      "definition": "A matrix A can be written as a product of matrices such that:\n A = UEV\u1D40"
     },
     {
       "term": "Primary Component Analysis",
