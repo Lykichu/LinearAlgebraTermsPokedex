@@ -4,82 +4,102 @@
   "previous": null,
   "results": [
     {
+      "number": "1",
       "term": "Linear Equation",
       "definition": "an equation of the form:\n a\u2081x\u2081 + a\u2082x\u2082 + ... + a\u1D62x\u1D62 = d"
     },
     {
+      "number": "2",
       "term": "Solution Set",
       "definition": "The collection of all \nsolutions to a system of equations"
     },
     {
+      "number": "3",
       "term": "Matrix",
       "definition": "A rectangular array of \nvalues representing a system of equation:\n a\u2081\u2081 + a\u2081\u2082 + ... + a\u2081\u1D62 \n a\u2082\u2081 + a\u2082\u2082 + ... + a\u2082\u1D62 \n . \u0020 \u0020 \u0020 \u0020 \u0020 \u0020 \u0020 . \n . \u0020 \u0020 \u0020 \u0020 \u0020 \u0020 \u0020 . \n . \u0020 \u0020 \u0020 \u0020 \u0020 \u0020 \u0020 . \n a\u1d63\u2081 + a\u1d63\u2082 + ... + a\u1D63\u1D62"
     },
     {
+      "number": "4",
       "term": "Gram-Schmidt",
       "definition": "The process of projecting\n one vector onto another and \nsubtracting out the shared\n components so that the vectors\n are made to be orthogonal"
     },
     {
+      "number": "5",
       "term": "Singular Value Decomposition",
       "definition": "A matrix A can be written as a product of matrices such that:\n A = UEV \u1D40"
     },
     {
+      "number": "6",
       "term": "Primary Component Analysis",
       "definition": "The process of reducing the dimension of data by projecting onto the axis of most variance found by the eigenvectors of the covariance matrix"
     },
     {
+      "number": "7",
       "term": "squirtle",
       "definition": "Description not yet added \n\n ⊂(￣▽￣)⊃"
     },
     {
+      "number": "8",
       "term": "wartortle",
       "definition": "Description not yet added \n\n (ﾉ>ω<)ﾉ :｡･:*:･★:･☆"
     },
     {
+      "number": "9",
       "term": "blastoise",
       "definition": "Description not yet added \n\n (∩` ﾛ ´)⊃━炎炎炎炎炎"
     },
     {
+      "number": "10",
       "term": "caterpie",
       "definition": "Description not yet added \n\n ┐(￣ヘ￣)┌"
     },
     {
+      "number": "11",
       "term": "metapod",
       "definition": "Description not yet added \n\n (づ ◕‿◕ )づ"
     },
     {
+      "number": "12",
       "term": "butterfree",
       "definition": "Description not yet added \n\n ⊂(￣▽￣)⊃"
     },
     {
+      "number": "13",
       "term": "weedle",
       "definition": "Description not yet added \n\n (ﾉ>ω<)ﾉ :｡･:*:･★:･☆"
     },
     {
+      "number": "14",
       "term": "kakuna",
       "definition": "Description not yet added \n\n (∩` ﾛ ´)⊃━炎炎炎炎炎"
     },
     {
+      "number": "15",
       "term": "beedrill",
       "definition": "Description not yet added \n\n ┐(￣ヘ￣)┌"
     },
     {
+      "number": "16",
       "term": "pidgey",
       "definition": "Description not yet added \n\n (づ ◕‿◕ )づ"
     },
     {
+      "number": "17",
       "term": "pidgeotto",
       "definition": "Description not yet added \n\n ⊂(￣▽￣)⊃"
     },
     {
+      "number": "18",
       "term": "pidgeot",
       "definition": "Description not yet added \n\n (ﾉ>ω<)ﾉ :｡･:*:･★:･☆"
     },
     {
+      "number": "19",
       "term": "rattata",
       "definition": "Description not yet added \n\n (∩` ﾛ ´)⊃━炎炎炎炎炎"
     },
     {
+      "number": "20",
       "term": "raticate",
       "definition": "Description not yet added \n\n ┐(￣ヘ￣)┌"
     }
