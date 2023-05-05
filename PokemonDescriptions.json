@@ -13,7 +13,7 @@
     },
     {
       "term": "Matrix",
-      "definition": "A rectangular array of \nvalues representing a system of equation:\n a\u2081\u2081 + a\u2081\u2082 + ... + a\u1D62x\u1D62 \n a\u2082\u2081 + a\u2082\u2082 + ... + a\u1D62\u1D62 \n .                           . \n .                           . \n .                           . \n a\u1d63\u2081 + a\u1d63\u2082 + ... + a\u1D63x\u1D62"
+      "definition": "A rectangular array of \nvalues representing a system of equation:\n a\u2081\u2081 + a\u2081\u2082 + ... + a\u2081\u1D62 \n a\u2082\u2081 + a\u2082\u2082 + ... + a\u2082\u1D62 \n .                           . \n .                           . \n .                           . \n a\u1d63\u2081 + a\u1d63\u2082 + ... + a\u1D63\u1D62"
     },
     {
       "term": "Gram-Schmidt",
@@ -21,7 +21,7 @@
     },
     {
       "term": "Singular Value Decomposition",
-      "definition": "A matrix A can be written as a product of matrices such that: "
+      "definition": "A matrix A can be written as a product of matrices such that:\n A = UEV\1D40"
     },
     {
       "term": "Primary Component Analysis",
@@ -29,7 +29,7 @@
     },
     {
       "term": "squirtle",
-      "definition": "Description not yet added"
+      "definition": "Description not yet added \n \u0F3C\u0020\u3064\u0020\u25D5\u0020\u0F3D\u3064"
     },
     {
       "term": "wartortle",
