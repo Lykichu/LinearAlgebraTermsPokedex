@@ -1,13 +1,12 @@
 const pokemonCount = 300;
-var pokedex = {}; // {1 : {"term" : "linear equation", "name" : "bulbsaur", "img" : url, "type" : ["grass", "poison"], "desc" : "...."} }
+const termCount = 20
+var pokedex = {};
 
 window.onload = async function() {
-    // getPokemon(1);
 
 
     for (let i = 1; i <= pokemonCount; i++) {
         await getPokemon(i);
-        //<div id="1" class="pokemon-name">BULBASAUR</div>
         let pokemon = document.createElement("div");
         pokemon.id = i;
         pokemon.innerText = i.toString() + ". " + pokedex[i]["term"].toUpperCase();
@@ -18,8 +17,6 @@ window.onload = async function() {
 
     document.getElementById("pokemon-description1").innerText = pokedex[1]["name"].toUpperCase();
     document.getElementById("pokemon-description2").innerText = pokedex[1]["desc"];
-
-    //console.log(pokedex);
 }
 
 async function getPokemon(num) {
@@ -35,7 +32,7 @@ async function getPokemon(num) {
 
     
 
-    if(num<20){
+    if(num <= termCount){
         
         let url1 = "https://raw.githubusercontent.com/Lykichu/LinearAlgebraTermsPokedex/main/PokemonDescriptions.json";
         let res1 = await fetch(url1);
@@ -60,23 +57,20 @@ async function getPokemon(num) {
 function updatePokemon(){
     document.getElementById("pokemon-img").src = pokedex[this.id]["img"];
 
-    //clear previous type
     let typesDiv = document.getElementById("pokemon-types");
     while (typesDiv.firstChild) {
         typesDiv.firstChild.remove();
     }
 
-    //update types
     let types = pokedex[this.id]["types"];
     for (let i = 0; i < types.length; i++) {
         let type = document.createElement("span");
         type.innerText = types[i]["type"]["name"].toUpperCase();
         type.classList.add("type-box");
-        type.classList.add(types[i]["type"]["name"]); //adds background color and font color
+        type.classList.add(types[i]["type"]["name"]); 
         typesDiv.append(type);
     }
 
-    //update description
     document.getElementById("pokemon-description1").innerText = pokedex[this.id]["name"].toUpperCase();
     document.getElementById("pokemon-description2").innerText = pokedex[this.id]["desc"];
 }
