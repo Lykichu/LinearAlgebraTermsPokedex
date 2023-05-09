@@ -40,8 +40,8 @@
     },
     {
       "number": "8",
-      "term": "wartortle",
-      "definition": "Description not yet added \n\n (ﾉ>ω<)ﾉ :｡･:*:･★:･☆"
+      "term": "eigenvectors",
+      "definition": "The vector such that x is a solution to Ax = \u03BBx"
     },
     {
       "number": "9",
@@ -101,6 +101,31 @@
     {
       "number": "20",
       "term": "raticate",
+      "definition": "Description not yet added \n\n ┐(￣ヘ￣)┌"
+    },
+    {
+      "number": "Empty Description message 1",
+      "term": "NA",
+      "definition": "Description not yet added \n\n (づ ◕‿◕ )づ"
+    },
+    {
+      "number": "Empty Description message 2",
+      "term": "NA",
+      "definition": "Description not yet added \n\n ⊂(￣▽￣)⊃"
+    },
+    {
+      "number": "Empty Description message 3",
+      "term": "NA",
+      "definition": "Description not yet added \n\n (ﾉ>ω<)ﾉ :｡･:*:･★:･☆"
+    },
+    {
+      "number": "Empty Description message 4",
+      "term": "NA",
+      "definition": "Description not yet added \n\n (∩` ﾛ ´)⊃━炎炎炎炎炎"
+    },
+    {
+      "number": "Empty Description message 5",
+      "term": "NA",
       "definition": "Description not yet added \n\n ┐(￣ヘ￣)┌"
     }
   ]
