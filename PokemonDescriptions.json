@@ -45,62 +45,62 @@
     },
     {
       "number": "9",
-      "term": "blastoise",
-      "definition": "Description not yet added \n\n (∩` ﾛ ´)⊃━炎炎炎炎炎"
+      "term": "domain",
+      "definition": "The set of all vectors x that are applicable to undergo a transform T(x) = b"
     },
     {
       "number": "10",
-      "term": "caterpie",
-      "definition": "Description not yet added \n\n ┐(￣ヘ￣)┌"
+      "term": "range",
+      "definition": "The set of all vectors b that can result from a transform T(x) = b"
     },
     {
       "number": "11",
-      "term": "metapod",
+      "term": "row-echelon",
       "definition": "Description not yet added \n\n (づ ◕‿◕ )づ"
     },
     {
       "number": "12",
-      "term": "butterfree",
+      "term": "reduced row-echelon",
       "definition": "Description not yet added \n\n ⊂(￣▽￣)⊃"
     },
     {
       "number": "13",
-      "term": "weedle",
+      "term": "vector space",
       "definition": "Description not yet added \n\n (ﾉ>ω<)ﾉ :｡･:*:･★:･☆"
     },
     {
       "number": "14",
-      "term": "kakuna",
+      "term": "subspace",
       "definition": "Description not yet added \n\n (∩` ﾛ ´)⊃━炎炎炎炎炎"
     },
     {
       "number": "15",
-      "term": "beedrill",
+      "term": "span",
       "definition": "Description not yet added \n\n ┐(￣ヘ￣)┌"
     },
     {
       "number": "16",
-      "term": "pidgey",
+      "term": "orthogonal matrix",
       "definition": "Description not yet added \n\n (づ ◕‿◕ )づ"
     },
     {
       "number": "17",
-      "term": "pidgeotto",
+      "term": "normalize",
       "definition": "Description not yet added \n\n ⊂(￣▽￣)⊃"
     },
     {
       "number": "18",
-      "term": "pidgeot",
+      "term": "orthonormal matrix",
       "definition": "Description not yet added \n\n (ﾉ>ω<)ﾉ :｡･:*:･★:･☆"
     },
     {
       "number": "19",
-      "term": "rattata",
+      "term": "symmetric matrix",
       "definition": "Description not yet added \n\n (∩` ﾛ ´)⊃━炎炎炎炎炎"
     },
     {
       "number": "20",
-      "term": "raticate",
+      "term": "singular",
       "definition": "Description not yet added \n\n ┐(￣ヘ￣)┌"
     },
     {
